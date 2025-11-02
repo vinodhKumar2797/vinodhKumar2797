@@ -97,17 +97,7 @@
 
 ---
 
-<details>
-  <summary>📎 Quick Setup for Profile README</summary>
 
-1. Create a repo named **<code>vinodhKumar2797</code>** (exactly your username).  
-2. Add this file as **<code>README.md</code>** in the root.  
-3. Replace:
-   - `YOUR-LINKEDIN` with your LinkedIn handle
-   - `YOUR-SCHOLAR-ID` if you use Google Scholar
-   - `[link-coming-soon]` placeholders with your repo links
-4. (Optional) Pin your top projects on your profile (Repositories → Pin).
-</details>
 
 <!-- Optional sections you can enable later:
 ## Blog / Notes
