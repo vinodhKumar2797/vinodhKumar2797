@@ -90,10 +90,10 @@
 ---
 
 ## Let’s Connect
-- 📫 Email: **vinodh2797@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/YOUR-LINKEDIN**
+- 📫 Email: **vinothkumars395@gmail.com**
+- 💼 LinkedIn: **[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/vinodhk27/)**
 - 🌐 Portfolio: **https://vinodhkumar.dev** (or GitHub Pages/Netlify)
-- 🧪 Google Scholar: **https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID**
+
 
 ---
 
