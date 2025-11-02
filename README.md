@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:vinodh2797@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vinodh2797%40gmail.com-red?logo=gmail"></a>
+  <a href="mailto:vinothkumars395@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vinodh2797%40gmail.com-red?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="https://vinodhkumar.dev" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?logo=vercel"></a>
   <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-Research-4285F4?logo=google-scholar&logoColor=white"></a>
