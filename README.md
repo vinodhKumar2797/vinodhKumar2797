@@ -1,84 +1,81 @@
-<!-- Profile README for vinodhKumar2797 -->
+<!-- GitHub Profile README — Vinodhkumar Saminathan (vk) -->
 <h1 align="center">Hi, I'm Vinodhkumar (vk) 👋</h1>
 <p align="center">
-  MS CS @ DePaul (Chicago) • Java Backend & Microservices • Research: Refactoring Prediction (SE)
+  Software Engineer • Java Backend & Microservices • MS CS @ DePaul (Chicago)
 </p>
 
 <p align="center">
   <a href="mailto:vinothkumars395@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vinothkumars395%40gmail.com-red?logo=gmail"></a>
-  <a href="[[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/vinodhk27/)](https://www.linkedin.com/in/vinodhk27/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/vinodhk27/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
   <a href="https://vinodhkumar.dev" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?logo=vercel"></a>
-  <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Scholar-Research-4285F4?logo=google-scholar&logoColor=white"></a>
 </p>
 
 ---
 
-## About Me
-- 💼 4+ yrs as **Java Backend / Full-Stack** (Virtusa, Market Simplified)
-- 🎓 **MS in Computer Science** @ DePaul University (2024–2025)
-- 🔬 Research Assistant: **Automated Refactoring Prediction** using RefactoringMiner, Designite/DesigniteJava, Understand, Weka/MEKA
-- ☁️ Building production-grade **Spring Boot** microservices with **Kafka**, **Docker/Kubernetes**, **CI/CD** (Jenkins/Azure DevOps), and **Observability** (Grafana/Splunk/Dynatrace)
-- 💡 Love clean architecture, design patterns, reproducible pipelines, and data-driven engineering
+## 👨‍💻 About
+- 4+ years as **Java Backend / Full-Stack** (Virtusa, Market Simplified).
+- Grad student (MS CS) @ **DePaul University**, focusing on **Automated Refactoring Prediction**.
+- I build production-ready **Spring Boot** microservices with **Kafka**, **Docker/Kubernetes**, **CI/CD** (Jenkins/GitHub Actions/Azure DevOps) and **observability** (Grafana/Splunk/Dynatrace).
+- Pragmatic engineering: clean architecture, design patterns, reproducible pipelines, and measurable outcomes.
 
 ---
 
-## What I’m Working On
-- 📊 Large-scale **refactoring-labelled datasets** (ARFF/CSV) with class-/method-level metrics (LOC, WMC, CBO, LCOM, RFC, TCC, churn, fan-in/out, code-smell flags)
-- 🤖 Experiments in **Weka/MEKA** (Random Forest, SVM, XGBoost; single & multi-label)
-- 🧱 End-to-end **portfolio app** with Spring Boot + Kafka + Kubernetes + GitHub Actions + Helm + Grafana dashboards
+## 🧰 Tech Stack
+**Languages:** Java, Python, JavaScript/TypeScript, SQL, Bash  
+**Frameworks:** Spring Boot, Spring MVC, JPA/Hibernate, REST, SOAP  
+**Messaging/Streaming:** Apache Kafka, JMS  
+**Datastores:** Oracle, MySQL, PostgreSQL, MongoDB, Redis  
+**DevOps/Cloud:** Docker, Kubernetes, Jenkins, GitHub Actions, Azure DevOps, Azure, AWS  
+**Testing/Quality:** JUnit, Mockito, TestNG, SonarQube  
+**Tooling (SE Research):** RefactoringMiner, Designite/DesigniteJava, Understand, Weka/MEKA
 
 ---
 
-## Tech Stack
-**Languages:** Java • Python • JavaScript/TypeScript • SQL • Bash  
-**Backend:** Spring Boot, Spring MVC, JPA/Hibernate, REST, SOAP  
-**Streaming/Messaging:** Apache Kafka, JMS  
-**Datastores:** Oracle • MySQL • PostgreSQL • MongoDB • Redis  
-**DevOps:** Docker • Kubernetes • Jenkins • GitHub Actions • Azure DevOps  
-**Cloud/Obs.:** Azure • AWS • Grafana • Splunk • Dynatrace  
-**Testing:** JUnit • Mockito • TestNG  
-**Tooling:** Maven/Gradle • Git • SonarQube  
-**SE Research Tooling:** RefactoringMiner • Designite/DesigniteJava • Understand • Weka/MEKA
+## 🔭 What I’m Working On
+- **Refactoring-labelled datasets** (ARFF/CSV) with class/method metrics (LOC, WMC, RFC, CBO, LCOM, TCC, churn, fan-in/out, code-smell flags).
+- **ML experiments** in Weka/MEKA (Random Forest, SVM, XGBoost; single/multi-label).
+- **End-to-end portfolio app**: Spring Boot + Kafka + K8s + GitHub Actions + Helm + Grafana dashboards.
 
 ---
 
-## Featured Projects
-- 🧬 **Refactoring Prediction Pipeline**  
-  Multi-repo pipeline combining RefactoringMiner, Designite metrics, and churn to produce **ARFF** datasets; automated joins, validation, and ML experiments.  
-  `Java • Python • Weka • CSV/ARFF • Git`  
-  - Repo: `[link-coming-soon]` (e.g., `refactor-predict-pipeline`)
-- ⚙️ **Churn + Designite Metrics Mapper**  
-  High-volume CSV joiner with streaming writes, type-safe parsing, and sanity checks; handles >200k rows reliably.  
-  - Repo: `[link-coming-soon]` (e.g., `DesigniteMetricsMapper`)
-- 🛍 **Shopping System (OOD)**  
+## 📌 Featured Projects
+- **Refactoring Prediction Pipeline**  
+  End-to-end pipeline combining RefactoringMiner, Designite metrics, and churn for **ARFF** datasets; automated joins, validation, and ML benchmarking.  
+  _Java • Python • Weka • CSV/ARFF • Git_  
+  ➤ Repo: `https://github.com/vinodhKumar2797/refactor-predict-pipeline` _(update if different)_
+
+- **Churn + Designite Metrics Mapper**  
+  High-volume CSV joiner with streaming writes and sanity checks; handles large datasets reliably (>200k rows).  
+  ➤ Repo: `https://github.com/vinodhKumar2797/DesigniteMetricsMapper` _(update if different)_
+
+- **LinkedIn ETL (DBMS Project)**  
+  Incremental ETL with idempotent runs (**MERGE/UPSERT**), validation checks; reduced full reloads by ~70% and validation effort by ~40%.  
+  ➤ Repo: `https://github.com/vinodhKumar2797/linkedin-etl` _(update if different)_
+
+- **Shopping System — OOD**  
   SOLID + patterns (**Singleton**, **Factory**, **Builder**), layered architecture, unit tests, and CI.  
-  - Repo: `[link-coming-soon]`
-- 🔗 **LinkedIn ETL (DBMS Project)**  
-  Incremental ETL with idempotent runs (**MERGE/UPSERT**), validation checks; reduced full reloads by ~70% and QA effort by ~40%.  
-  - Repo: `[link-coming-soon]`
-
-> Want a quick tour? Check **Pinned Repositories** below 👇
+  ➤ Repo: `https://github.com/vinodhKumar2797/shopping-system-ood` _(update if different)_
 
 ---
 
-## Research & Publications
-- **Domain:** Software Engineering (SE), Code Smells, Refactoring, Predictive Modeling  
-- **Artifacts:** Large ARFF/CSV datasets; scripts for reproducible experiments  
-- **Methods:** Cross-validation (k-fold/stratified), feature engineering, ML benchmarking  
-- **Advising/Collab:** Prof. Wael Kessentini, DePaul University  
-- Preprints/Results: `[add links here: OSF, arXiv, Google Drive, GitHub Releases]`
+## 🧪 Research
+- **Area:** Software Engineering (code smells, refactoring, predictive modeling)  
+- **Artifacts:** Large ARFF/CSV datasets + scripts for reproducible experiments  
+- **Methods:** Feature engineering, k-fold/stratified CV, ML benchmarking  
+- **Collab:** Prof. Wael Kessentini, DePaul University  
+- **Links:** _Add OSF/arXiv/Google Scholar when available_
 
 ---
 
-## How I Work
-- 📦 Reproducible: Makefiles / scripts / containerized runners  
-- 🧪 Tested: JUnit + Mockito; CI on every PR  
-- 📈 Observability: metrics, logs, dashboards  
-- 🔐 Secure by default: least privilege, secrets management, dependency scans
+## ⚙️ How I Work
+- **Reproducible:** Makefiles/scripts, containerized runners  
+- **Tested:** JUnit + Mockito; CI on every PR  
+- **Observable:** metrics, logs, dashboards  
+- **Secure by default:** least privilege, secret management, dependency scans
 
 ---
 
-## Stats
+## 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vinodhKumar2797&show_icons=true&count_private=true" alt="vk GitHub stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodhKumar2797&layout=compact&langs_count=8" alt="Top Langs">
@@ -89,21 +86,14 @@
 
 ---
 
-## Let’s Connect
-- 📫 Email: **vinothkumars395@gmail.com**
-- 💼 LinkedIn: **[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/vinodhk27/)**
-- 🌐 Portfolio: **https://vinodhkumar.dev** (or GitHub Pages/Netlify)
+## 🤝 Connect
+- 📫 **vinodh2797@gmail.com**
+- 🔗 **https://www.linkedin.com/in/YOUR-LINKEDIN**
+- 🌐 **https://vinodhkumar.dev**
 
-
----
-
-
-
-<!-- Optional sections you can enable later:
-## Blog / Notes
-- [Post 1](#)
-- [Post 2](#)
-
-## Certifications
-- AZ-900, AWS Practitioner, etc.
+<!--
+Tips:
+- Replace YOUR-LINKEDIN and repo links with your actual URLs.
+- Pin your top repos so they show under the profile.
+- Add CI badges (GitHub Actions) from your pipelines if you want live build status here.
 -->
