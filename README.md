@@ -87,7 +87,7 @@
 ---
 
 ## 🤝 Connect
-- 📫 **vinodh2797@gmail.com**
+- 📫 **vinothkumars395@gnail.com**
 - 🔗 **https://www.linkedin.com/in/YOUR-LINKEDIN**
 - 🌐 **https://vinodhkumar.dev**
 
