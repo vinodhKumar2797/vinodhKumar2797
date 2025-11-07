@@ -88,7 +88,7 @@
 
 ## 🤝 Connect
 - 📫 **vinothkumars395@gnail.com**
-- 🔗 **https://www.linkedin.com/in/YOUR-LINKEDIN**
+- 🔗 **https://www.linkedin.com/in/vinodhk27/**
 - 🌐 **https://vinodhkumar2797.github.io/vinodhkumar-saminathan-portfolio/**
 
 <!--
