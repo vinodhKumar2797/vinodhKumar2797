@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:vinothkumars395@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vinothkumars395%40gmail.com-red?logo=gmail"></a>
   <a href="https://www.linkedin.com/in/vinodhk27/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="[https://vinodhkumar.dev](https://vinodhkumar2797.github.io/vinodhkumar-saminathan-portfolio/)" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?logo=vercel](https://vinodhkumar2797.github.io/vinodhkumar-saminathan-portfolio/)"></a>
+  <a href="https://vinodhkumar2797.github.io/vinodhkumar-saminathan-portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?logo=vercel](https://vinodhkumar2797.github.io/vinodhkumar-saminathan-portfolio/)"></a>
 </p>
 
 ---
