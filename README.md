@@ -46,7 +46,7 @@
 
 - **Churn + Designite Metrics Mapper**  
   High-volume CSV joiner with streaming writes and sanity checks; handles large datasets reliably (>200k rows).  
-  ➤ Repo: `https://github.com/vinodhKumar2797/DesigniteMetricsMapper` _(update if different)_
+  ➤ Repo: `[https://github.com/vinodhKumar2797/DesigniteMetricsMapper](https://github.com/vinodhKumar2797/DesignateMetricsMapper)` _(update if different)_
 
 - **LinkedIn ETL (DBMS Project)**  
   Incremental ETL with idempotent runs (**MERGE/UPSERT**), validation checks; reduced full reloads by ~70% and validation effort by ~40%.  
