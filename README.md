@@ -31,7 +31,7 @@
 
 ---
 
-## 🔭 What I’m Working On
+## 🔭 What did i researched On
 - **Refactoring-labelled datasets** (ARFF/CSV) with class/method metrics (LOC, WMC, RFC, CBO, LCOM, TCC, churn, fan-in/out, code-smell flags).
 - **ML experiments** in Weka/MEKA (Random Forest, SVM, XGBoost; single/multi-label).
 - **End-to-end portfolio app**: Spring Boot + Kafka + K8s + GitHub Actions + Helm + Grafana dashboards.
